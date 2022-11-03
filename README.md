@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Larsa-mrp
+- 👋 Hi, I’m Larsa
 - 👀 I’m interested in learning software development
 - 🌱 I’m currently learning C# and the .NET framework
 - 💞️ I’m looking to collaborate on anything beginner friendly
