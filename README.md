@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Larsa
+- 👋 Hi, I’m Bradley
 - 👀 I’m interested in learning anything I can regarding software development
-- 🌱 I’m currently learning C# and ASP.NET framework
+- 🌱 I’m currently learning C# and the ASP.NET framework
 - 💞️ I’m looking to collaborate on anything beginner friendly
 - 📫 How to reach me: https://www.linkedin.com/in/bradley-spiclin/
 
