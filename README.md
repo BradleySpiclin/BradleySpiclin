@@ -1,7 +1,8 @@
 - 👋 Hi, I’m Bradley
-- 👀 I’m interested in learning anything I can regarding software development
+- 👀 I’m interested in learning software development
 - 🌱 I’m currently learning C# and the ASP.NET framework
 - 💞️ I’m looking to collaborate on anything beginner friendly
+- I also love good food and movies!
 - 📫 How to reach me: https://www.linkedin.com/in/bradley-spiclin/
 
 <!---
