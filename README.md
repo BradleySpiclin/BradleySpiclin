@@ -28,7 +28,7 @@
 #
 <h3>🏆 My Codewars Profile</h3>
 <a href="https://www.codewars.com/users/Larsa">
-  <img align="left" height="80%" src="https://www.codewars.com/users/Larsa/badges/large" alt="Codewars Profile" style="padding-right:10px;">
+  <img align="left" width="80px" src="https://www.codewars.com/users/Larsa/badges/large" alt="Codewars Profile" style="padding-right:10px;">
 </a>
 <br />
 
