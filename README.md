@@ -11,7 +11,7 @@
 #
 <h3>🔗 Connect with Me</h3>
 <a href="https://www.linkedin.com/in/bradley-spiclin/">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn Profile">
+  <img align="left" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn Profile" style="padding-right:10px;">
 </a>
 
 #
