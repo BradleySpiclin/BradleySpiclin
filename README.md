@@ -22,7 +22,7 @@
     
 #
 <h3>My Codewars Rank</h3>
-<img align="left" width="30px" src="https://www.codewars.com/users/Larsa/badges/large" alt="Codewars Profile" style="padding-right:10px;">
+<img align="left" src="https://www.codewars.com/users/Larsa/badges/large" alt="Codewars Profile" style="padding-right:10px;">
 
 #
 <h3>🧰 Languages and Tools</h3>
