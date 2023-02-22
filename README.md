@@ -11,14 +11,10 @@
 #
 <h3>🔗 Connect with Me</h3>
 <a href="https://www.linkedin.com/in/bradley-spiclin/">
-  <img align="left" width="30px" src="https://img.icons8.com/ios/50/null/linkedin-circled--v1.png" alt="LinkedIn Profile" style="padding-right:10px;">
+  <img align="left" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn Profile" style="padding-right:10px;">
 </a>
 <a href="https://www.facebook.com/bradley.spiclin">
   <img align="left" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" alt="Facebook Profile" style="padding-right:10px;">
-</a>
-<a href="https://www.youtube.com/@bradleyspiclin9575">
-  <i class="fa-brands fa-youtube"></i>style="padding-right:10px;">
-</a>
 <br />
 
 #
