@@ -20,11 +20,10 @@
 <img align="left" alt="JS" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;"/>
 <img align="left" alt="Visual Studio" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" style="padding-right:10px;"/>
 <img align="left" alt="Visual Studio Code" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;"/>
-<br />
 <img align="left" alt="Git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;"/>
 <img align="left" alt="Java" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="padding-right:10px;"/>
 <img align="left" alt="Python width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;"/>
-
+<br />
 #
 <details>
   <summary><h3>🌐 My Coding Journey</h3></summary>
