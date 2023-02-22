@@ -10,6 +10,7 @@
 - 📫 How to reach me: https://www.linkedin.com/in/bradley-spiclin/
 #
 <h3>🔗 Connect with Me</h3>
+<img align="left" alt="LinkedIn" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="padding-right:10px;" href="https://www.linkedin.com/in/bradley-spiclin/"/>
 
 #
 <h3>🧰 Languages and Tools</h3>
