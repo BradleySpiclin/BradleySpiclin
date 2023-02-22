@@ -16,13 +16,18 @@
 </a>
 <a href="https://www.facebook.com/bradley.spiclin">
   <img align="left" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" alt="Facebook Profile" style="padding-right:10px;">
-  <a href="https://www.codewars.com/users/Larsa">
+</a>
+<a href="https://www.codewars.com/users/Larsa">
   <img align="left" width="30px" src="https://i.imgur.com/784TQJE.png" alt="Codewars Profile" style="padding-right:10px;">
+</a>
 <br />
     
 #
-<h3>My Codewars Rank</h3>
-<img align="left" src="https://www.codewars.com/users/Larsa/badges/large" alt="Codewars Profile" style="padding-right:10px;">
+<h3>🏆 My Codewars Profile</h3>
+<a href="https://www.codewars.com/users/Larsa">
+  <img align="left" src="https://www.codewars.com/users/Larsa/badges/large" alt="Codewars Profile" style="padding-right:10px;">
+</a>
+<br />
 
 #
 <h3>🧰 Languages and Tools</h3>
