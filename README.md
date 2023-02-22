@@ -17,9 +17,6 @@
 <a href="https://www.facebook.com/bradley.spiclin">
   <img align="left" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" alt="Facebook Profile" style="padding-right:10px;">
 </a>
-<a href="https://www.codewars.com/users/Larsa">
-  <img align="left" width="30px" src="https://i.imgur.com/784TQJE.png" alt="Codewars Profile" style="padding-right:10px;">
-</a>
 <br />
     
 #
@@ -43,7 +40,6 @@
 <img align="left" alt="Visual Studio Code" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;"/>
 <img align="left" alt="CPlusPlus" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" style="padding-right:10px;"/>
 <img align="left" alt="Unreal Engine" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" style="padding-right:10px;"/>
-
 <br />
 
 #
