@@ -10,7 +10,10 @@
 - 🍔 I also love good food and sci-fi movies!
 
 #
-<h3>🔗 Connect With Me</h3>
+<h3>🖱️ Connect With Me</h3>
+<a href="https://www.linkedin.com/in/bradley-spiclin/">
+  <img align="left" width="30px" src="https://i.imgur.com/zgGbYXf.png" alt="Portfolio Site" style="padding-right:10px;">
+</a>
 <a href="https://www.linkedin.com/in/bradley-spiclin/">
   <img align="left" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn Profile" style="padding-right:10px;">
 </a>
@@ -22,11 +25,6 @@
 </a>
 <br />
 
-<h3>🖱️ My Live Portfolio Site</h3>
-<a href="https://www.linkedin.com/in/bradley-spiclin/">
-  <img align="left" width="30px" src="https://i.imgur.com/zgGbYXf.png" alt="Portfolio Site" style="padding-right:10px;">
-</a>
-    
 #
 <h3>🏆 My Codewars Profile</h3>
 <a href="https://www.codewars.com/users/Larsa">
