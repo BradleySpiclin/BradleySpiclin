@@ -3,9 +3,10 @@
 **`Student & Aspiring Developer`**
 
 - 👋 Hi, I’m Bradley
-- 👀 I’m passionate about Software Development and learning!
+- 👀 I’m passionate about Software Development and learning
 - 🌱 I’m currently learning C# and the ASP.NET MVC framework
 - 💞️ Looking to collaborate on anything beginner friendly
+- 🕹️ I enjoy solving coding challenges on Codewars
 - 🍔 I also love good food and sci-fi movies!
 
 #
@@ -18,6 +19,10 @@
   <a href="https://www.codewars.com/users/Larsa">
   <img align="left" width="30px" src="https://i.imgur.com/784TQJE.png" alt="Codewars Profile" style="padding-right:10px;">
 <br />
+    
+#
+<h3>My Codewars Rank</h3>
+<img align="left" width="30px" src="https://www.codewars.com/users/Larsa/badges/large" alt="Codewars Profile" style="padding-right:10px;">
 
 #
 <h3>🧰 Languages and Tools</h3>
