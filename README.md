@@ -17,5 +17,5 @@
 
 
 <details>
-  <summary><h3>🌐 My Coding Journey</h3></summary>
-    blah blah blah
+<summary><h3>🌐 My Coding Journey</h3></summary>
+blah blah blah
