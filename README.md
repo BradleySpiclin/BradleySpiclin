@@ -1,3 +1,5 @@
+# Bradley Spiclin
+
 - 👋 Hi, I’m Bradley
 - 👀 I’m passionate about Software Development!
 - 🌱 I’m currently learning C# and the ASP.NET MVC framework
