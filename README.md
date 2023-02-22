@@ -9,7 +9,6 @@
 - 🍔 I also love good food and sci-fi movies!
 - 📫 How to reach me: https://www.linkedin.com/in/bradley-spiclin/
 
-<!---
-Larsa-mrp/Larsa-mrp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<details>
+  <summary><h3>My Coding Journey</h3></summary>
+    blah blah blah
