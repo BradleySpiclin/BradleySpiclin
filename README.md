@@ -11,7 +11,7 @@
 
 #
 <h3>🖱️ Connect With Me</h3>
-<a href="https://www.linkedin.com/in/bradley-spiclin/">
+<a href="https://bradleyspiclin.github.io/PortfolioProject/">
   <img align="left" width="30px" src="https://i.imgur.com/zgGbYXf.png" alt="Portfolio Site" style="padding-right:10px;">
 </a>
 <a href="https://www.linkedin.com/in/bradley-spiclin/">
