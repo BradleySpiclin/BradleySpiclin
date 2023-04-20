@@ -1,6 +1,6 @@
 # Bradley Spiclin
 
-**`Student & Aspiring Developer`**
+**`Junior Developer & Student`**
 
 - 👋 Hi, I’m Bradley
 - 👀 I’m passionate about Software Development and learning
