@@ -3,11 +3,12 @@
 **`Junior Developer & Student`**
 
 - 👋 Hi, I’m Bradley
-- 👀 I’m passionate about Software Development and learning
+- 👀 I’m passionate about software development and ongoing learning
 - 🌱 I’m currently learning C# and the ASP.NET MVC framework
+- 🎓 I'm a full-time university student
 - 💞️ Looking to collaborate on anything beginner friendly
 - 🕹️ I enjoy solving coding challenges on Codewars
-- 🍔 I also love good food and sci-fi movies!
+- 🍔 I love good food and sci-fi movies!
 
 #
 <h3>🖱️ Connect With Me</h3>
