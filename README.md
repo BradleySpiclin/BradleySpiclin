@@ -4,7 +4,7 @@
 
 - 👋 Hi, I’m Bradley
 - 👀 I’m passionate about software development and ongoing learning
-- 🌱 I’m currently learning C# and the ASP.NET MVC framework
+- 🌱 I’m currently learning C# and the ASP.NET Framework
 - 🎓 I'm a full-time university student
 - 💞️ Looking to collaborate on anything beginner friendly
 - 🕹️ I enjoy solving coding challenges on Codewars
