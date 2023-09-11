@@ -18,9 +18,6 @@
 <a href="https://www.linkedin.com/in/bradley-spiclin/">
   <img align="left" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn Profile" style="padding-right:10px;">
 </a>
-<a href="https://www.facebook.com/bradley.spiclin">
-  <img align="left" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" alt="Facebook Profile" style="padding-right:10px;">
-</a>
 <a href="https://www.youtube.com/@bradleyspiclin9575">
   <img align="left" width="30px" src="https://i.imgur.com/M1T6Uh9.png" alt="Youtube Profile" style="padding-right:10px;">
 </a>
