@@ -4,7 +4,7 @@
 
 - 👋 Hi, I’m Bradley
 - 👀 I’m passionate about software development
-- 🖳 I’m currently learning C#, JavaScript, and Python
+- 💻 I’m currently learning C#, JavaScript, and Python
 - 🎓 I'm a full-time university student
 - ✍️ Looking to collaborate on anything beginner friendly
 - 🎲 I enjoy solving coding challenges on Codewars
