@@ -1,11 +1,11 @@
 # Bradley Spiclin
 
-**`Full-time Student`**
+**`Junior Software Engineer`**
 
 - 👋 Hi, I’m Bradley
 - 👀 I’m passionate about software development
-- 💻 I’m currently learning C#, JavaScript, and Python
-- 🎓 I'm a full-time university student
+- 💻 I’m currently learning C# and Dotnet
+- 🎓 I'm a part-time university student
 - ✍️ Looking to collaborate on anything beginner friendly
 - 🎲 I enjoy solving coding challenges on Codewars
 - 🎮 I love pc gaming and sci-fi movies!
