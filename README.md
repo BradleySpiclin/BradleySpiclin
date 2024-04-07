@@ -1,10 +1,10 @@
 ## Hi there, I'm Bradley Spiclin 👋
 
-- 👀 I’m passionate about software development
+## I'm a Junior Software Engineer.
 - 💻 I’m currently learning C# and Dotnet
 - ✍️ Looking to collaborate on anything beginner friendly
 - 🎲 I enjoy solving coding challenges on Codewars
-- 🎮 My hobbies include PC gaming and watching sci-fi movies!
+- 🔗 Feel free to connect with me on LinkedIn
 
 #
 <h3>🏆 My Codewars Profile</h3>
