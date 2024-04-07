@@ -1,6 +1,5 @@
 ## Hi there, I'm Bradley Spiclin 👋
 
-## I'm a Junior Software Engineer.
 - 💻 I’m currently learning C# and Dotnet
 - ✍️ Looking to collaborate on anything beginner friendly
 - 🎲 I enjoy solving coding challenges on Codewars
