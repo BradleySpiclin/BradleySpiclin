@@ -5,16 +5,13 @@
 - 👋 Hi, I’m Bradley
 - 👀 I’m passionate about software development
 - 💻 I’m currently learning C# and Dotnet
-- 🎓 I'm a part-time university student
+- 🎓 I'm a Junior Software Enginner and full-time university student
 - ✍️ Looking to collaborate on anything beginner friendly
 - 🎲 I enjoy solving coding challenges on Codewars
-- 🎮 I love pc gaming and sci-fi movies!
+- 🎮 My hobbies include PC gaming and watching sci-fi movies!
 
 #
 <h3>🖱️ Connect With Me</h3>
-<a href="https://bradleyspiclin.github.io/PortfolioProject/">
-  <img align="left" width="30px" src="https://i.imgur.com/zgGbYXf.png" alt="Portfolio Site" style="padding-right:10px;">
-</a>
 <a href="https://www.linkedin.com/in/bradley-spiclin/">
   <img align="left" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn Profile" style="padding-right:10px;">
 </a>
